@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PagingLibraryExample</string>
+    <string name="loading">Loading</string>
+    <string name="language">Language: %s</string>
+    <string name="sample_description">A collection of samples to discuss.</string>
+    <string name="stars">star</string>
+    <string name="counts">30</string>
+    <string name="forks">forks</string>
+    <string name="name">Repository Name</string>
+</resources>
